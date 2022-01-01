@@ -21,4 +21,4 @@ PICERL (Preparation, Identification, Containment, Eradication, Recovery and Less
 
 #### Additional Information
 
-1. [Mitre](https://attack.mitre.org/techniques/T1052/001/)
+1. [Mitre TTP T1052](https://attack.mitre.org/techniques/T1052/001/)
