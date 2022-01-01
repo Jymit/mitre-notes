@@ -6,7 +6,9 @@ eg
 
 eg
 
-MITRE-ATTACK - Exfiltration - T1052.001 - Exfiltration over USB.md
+MITRE-ATTACK - Exfiltration - T1052.001 - Exfiltration over USB
+
+.md for each techID I want to focus on. Prep, id, defensive engineering..
 
 ### MITRE
 
